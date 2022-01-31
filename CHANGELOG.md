@@ -1,0 +1,105 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.0.2](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@2.0.1...gatsby-theme-try-ghost@2.0.2) (2021-12-22)
+
+
+### Features
+
+* pass additional params for cusdis support, maintain backward compatibility ([58c32d3](https://github.com/styxlab/gatsby-theme-try-ghost/commit/58c32d33dd0b83714b0db903b41ad65cd7ab8e3e))
+
+
+
+
+
+## [2.0.1](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@2.0.0...gatsby-theme-try-ghost@2.0.1) (2021-09-19)
+
+
+### Features
+
+* new theme package to show all the tags as a collection of pages, similar to how posts are displayed in ([1addacc](https://github.com/styxlab/gatsby-theme-try-ghost/commit/1addacc454259968d60666f1d70372b9d6c7e1cf))
+* rename tags components ([a82127c](https://github.com/styxlab/gatsby-theme-try-ghost/commit/a82127ce475c401002405d79d5c8c6396bb165f6))
+
+
+
+
+
+# [2.0.0](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.50.5...gatsby-theme-try-ghost@2.0.0) (2021-03-02)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.50.5](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.50.4...gatsby-theme-try-ghost@1.50.5) (2021-02-04)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.50.4](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.50.2...gatsby-theme-try-ghost@1.50.4) (2020-12-15)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.50.2](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.50.1...gatsby-theme-try-ghost@1.50.2) (2020-12-05)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.50.1](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.50.0...gatsby-theme-try-ghost@1.50.1) (2020-12-05)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+# [1.50.0](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.49.3...gatsby-theme-try-ghost@1.50.0) (2020-11-25)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.49.3](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.49.2...gatsby-theme-try-ghost@1.49.3) (2020-11-23)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## [1.49.2](https://github.com/styxlab/gatsby-theme-try-ghost/compare/gatsby-theme-try-ghost@1.49.1...gatsby-theme-try-ghost@1.49.2) (2020-11-11)
+
+**Note:** Version bump only for package gatsby-theme-try-ghost
+
+
+
+
+
+## 1.49.1 (2020-11-06)
+
+
+### Bug Fixes
+
+* commento losing server url on page reload ([0ac14a0](https://github.com/styxlab/gatsby-theme-try-ghost/commit/0ac14a0f3cdfc2bf2a760da92c7c2a031e33c1da))
+* empty preview ([c41a21e](https://github.com/styxlab/gatsby-theme-try-ghost/commit/c41a21ebedc19f21060c000329d62b8b9c15efb7))
+* gatsby-image-wrapper position glitch ([c926dc6](https://github.com/styxlab/gatsby-theme-try-ghost/commit/c926dc690f9203b2694e31b571a197cfbdedfe7a))
+
+
+### Features
+
+* prepare for newsletter ([5fd4eb9](https://github.com/styxlab/gatsby-theme-try-ghost/commit/5fd4eb9ee9c80f5559dff34ee59774ff26de3400))
